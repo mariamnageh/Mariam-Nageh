@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mariam Nageh</h1>
-<h3 align="center">A Passionate Frontend Developer From Egypt</h3>
+<h3 align="center">A passionate frontend developer from Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mariamnageh&label=Profile%20views&color=0e75b6&style=flat" alt="mariamnageh" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React,AngularJS,PL/SQL**
 
-- 👨‍💻 All of my projects are available at [https://github.com/mariamnageh/CodeAlpha_Personal-Portfolio-Website.git](https://github.com/mariamnageh/CodeAlpha_Personal-Portfolio-Website.git)
+- 👨‍💻 All of my projects are available at [https://github.com/mariamnageh](https://github.com/mariamnageh)
 
 - 💬 Ask me about **React,SQL,HTML,CSS,JS**
 
